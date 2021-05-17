@@ -1,0 +1,29 @@
+body{
+  background-color: #011627;
+  text-align: center;
+  color: white;
+
+
+  border-bottom: 30px solid red;
+  border-left: 30px solid red;
+  border-right: 30px solid red;
+
+  font-family: "Arial"
+}
+
+p{
+  font-size: 20px;
+  padding-top: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+input{
+  margin-bottom: 10px;
+}
+
+#signup{
+  border-radius: 20px;
+  padding: 15px;
+  background-color: yellow;
+}
