@@ -30,7 +30,7 @@ else {
 
 
 // condition3
-if (height > 170){
+if (height >= 170){
   condition3 = true
 }
 else {
